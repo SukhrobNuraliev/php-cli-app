@@ -1,0 +1,16 @@
+{
+    "name": "sukhrob/php-cli",
+    "authors": [
+        {
+            "name": "sukhrobnuraliev",
+            "email": "sukhrobnuralievv@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Minicli\\": "lib/",
+            "App\\": "app/"
+        }
+    }
+}
